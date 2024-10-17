@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marcin Kolpacki
+- 👀 I’m interested in web development and design
+- 🌱 I’m currently learning marketing
